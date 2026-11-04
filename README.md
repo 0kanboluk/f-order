@@ -13,10 +13,3 @@ Yurtlardaki halı saha organizasyonlarının geleneksel WhatsApp grupları üzer
 * **Frontend / İstemci:** Flutter (iOS & Android)
 * **Backend (BaaS) & Veritabanı:** Supabase (PostgreSQL, Auth)
 * **Gerçek Zamanlı Veri:** Supabase Realtime (WebSocket)
-
-## Geliştirici Ortamı Kurulumu
-1. Depoyu klonlayın: `git clone https://github.com/0kanboluk/yurt-saha.git`
-2. Proje dizinine geçiş yapın: `cd yurt-saha`
-3. Flutter bağımlılıklarını indirin: `flutter pub get`
-4. `.env.example` dosyasını `.env` olarak kopyalayıp Supabase `URL` ve `ANON_KEY` bilgilerinizi girin.
-5. Uygulamayı başlatın: `flutter run`
